@@ -145,3 +145,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn_img {
+  width: 20px;
+  color: red;
+}
