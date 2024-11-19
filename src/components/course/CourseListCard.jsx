@@ -1,6 +1,6 @@
 import Courseitem from "./Courseitem";
 
-function CourseListCard(props) {
+function CourseListCard() {
     return (
         <>
             <div className="card">

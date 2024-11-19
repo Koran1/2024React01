@@ -21,3 +21,4 @@ function Courseitem({ course_img_src, course_title, course_description }) {
 }
 
 export default Courseitem;
+
