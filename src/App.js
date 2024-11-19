@@ -16,6 +16,8 @@ import TestList3 from './components/step06/TestList3';
 import HeartListCart from './components/step_heart/HeartListCart';
 import Event01 from './components/step07/Event01';
 import Event02 from './components/step07/Event02';
+import CourseListCard08 from './components/step08/CourseListCard08';
+import Count08 from './components/step08/Count08';
 
 function App() {
   const items = [
@@ -56,6 +58,10 @@ function App() {
       <Event01 />
       <hr />
       <Event02 />
+      <hr />
+      <CourseListCard08 items={items} />
+      <hr />
+      <Count08 />
     </main>
   );
 }
